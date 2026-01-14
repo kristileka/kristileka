@@ -5,7 +5,7 @@ I'm a software engineer passionate about open source and JVM-based technologies,
 ## Open Source
 
 **Contributor & Developer — [Viaduct](https://github.com/airbnb/viaduct)** (Airbnb)  
-I contribute to Viaduct, Airbnb's GraphQL tooling framework. My work includes developing a Kotlin DSL code generation system that creates type-safe query builders from GraphQL schemas, along with comprehensive testing infrastructure and alias support.
+I'm a contributor and developer of Viaduct, Airbnb's open source data-oriented service mesh. Viaduct provides a central schema connecting domains across an organization, a serverless platform for hosting business logic, and a re-entrant API that enables modular composition through GraphQL fragments and queries.
 
 ## Skills
 
